@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ca88c0cf41328f478a93ba5400752b9, type: 3}
+  m_Name: myData
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: Water
+    Quantity: 0
+    Sprite: {fileID: 21300000, guid: 389851f87eafc9c4ba0727f4d9bce9f1, type: 3}
+    PrefabObj: {fileID: 4438140044009686167, guid: a19ae882aaf8b6d4287cd741f92a96df,
+      type: 3}
+    UseType: 0
+  - Name: Food
+    Quantity: 1
+    Sprite: {fileID: 21300000, guid: c0543a666a8633e46a634bad7a132d4a, type: 3}
+    PrefabObj: {fileID: 4012449099662897905, guid: f1bedce5779875b439afdbd250230873,
+      type: 3}
+    UseType: 0
+  - Name: Gun
+    Quantity: 0
+    Sprite: {fileID: 21300000, guid: b616dc6e00d349d4f9bcdbb895bfe56d, type: 3}
+    PrefabObj: {fileID: 5149146864900187578, guid: eb7a580400a701a43a22f33d8ac6fd7e,
+      type: 3}
+    UseType: 1
+  - Name: Ammo
+    Quantity: 3
+    Sprite: {fileID: 21300000, guid: 8dd62a9a11ba6ee4ab710844caa8a09c, type: 3}
+    PrefabObj: {fileID: 2883162191099790263, guid: 0dafd3cadbdbb9648aa263c06611d18d,
+      type: 3}
+    UseType: 2
+  - Name: AmmoShatgin
+    Quantity: 4
+    Sprite: {fileID: 21300000, guid: 74ce2ace39ff2fd4ca87a9f326d5b61f, type: 3}
+    PrefabObj: {fileID: 1272230433213619306, guid: 7096ac0876fc6c347844de612857b779,
+      type: 3}
+    UseType: 2
